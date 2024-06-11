@@ -13,6 +13,25 @@ Analista de Dados com mais de 1 ano de experiência. Desenvolvi projetos onde ap
 ## Dashboards em Power BI
 
 <details>
+  <summary>Dashboard Gestão de Projetos</summary>
+
+Este repositório tem como objetivo compartilhar dashboards criados em Power BI para fins de análise de dados para negócios.
+
+[Dashboard Gestão de Projetos](https://github.com/nathvidori/Dashboard-Gestao-de-Projetos/blob/main/README.md)
+
+**Competências aplicadas nesse projeto:**
+
+Coleta de dados usando Excel
+
+Tratamento de dados com PowerQuerry
+
+Visualização e Análise de dados com Power BI
+
+Design do dashboard usando PowerPoint
+
+</details>
+
+<details>
   <summary>Dashboard RH</summary>
 
 Este repositório tem como objetivo compartilhar dashboards criados em Power BI para fins de análise de dados para negócios.
