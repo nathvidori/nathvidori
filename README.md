@@ -10,6 +10,17 @@ Analista de Dados com mais de 1 ano de experiência. Desenvolvi projetos onde ap
 
 ##
 
+## SQL
+
+<details>
+  <summary>Criando um Banco de Dados em SQL</summary>
+
+Este repositório tem como objetivo compartilhar um Banco de Dados criado em SQL no Server Management Studio (SSMS).
+
+[Criando um Banco de Dados em SQL](https://github.com/nathvidori/Criando-Banco-de-Dados-em-SQL/tree/main/arquivo)
+
+</details>
+
 ## Dashboards em Power BI
 
 <details>
