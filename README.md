@@ -1,6 +1,6 @@
 ## Nathália Vidori
 
-Analista de Dados com mais de 1 ano de experiência. Desenvolvi projetos onde apliquei meus conhecimentos em Access, Power BI e Python. Estou em busca de oportunidade para me desenvolver no mercado de trabalho e aplicar minha experiência em Análise de Dados. Os códigos postados aqui são projetos de estudo desenvolvidos durante minha jornada de aprendizado.
+Analista de Dados com mais de 3 anos de experiência. Desenvolvi projetos onde apliquei meus conhecimentos em Access, Excel, Power BI e Python. Os códigos postados aqui são projetos de estudo desenvolvidos durante minha jornada de aprendizado.
 
 ##
 
